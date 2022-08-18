@@ -1,0 +1,28 @@
+@font-face {
+    font-family: circular-font-med;
+    src: url(/proj1/fonts/CircularStd-Medium.otf);
+}
+
+@font-face {
+    font-family: circular-font-black;
+    src: url(/proj1/fonts/CircularStd-Black.otf);
+}
+
+@font-face {
+    font-family: circular-font-lite;
+    src: url(/proj1/fonts/CircularStd-Light.otf);
+}
+
+@font-face {
+    font-family: circular-font-bold;
+    src: url(/proj1/fonts/CircularStd-Bold.otf);
+}
+
+@font-face {
+    font-family: circular-font-book;
+    src: url(/proj1/fonts/CircularStd-Book.otf);
+}
+
+body {
+    font-family: circular-font-med, sans-serif;
+}
